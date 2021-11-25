@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker exec -ti -w /app -u python python sh
+docker exec -ti -w /app -u python python bash
